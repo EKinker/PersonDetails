@@ -47,7 +47,6 @@ public class PersonHandlerTest {
         Assert.assertEquals(expected, actual);
     }
 
-
     @Test
     public void testForEachLoop() {
         // : When
@@ -56,6 +55,8 @@ public class PersonHandlerTest {
         // : Then
         Assert.assertEquals(expected, actual);
     }
+
+
 
 
 }
